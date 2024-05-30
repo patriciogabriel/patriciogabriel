@@ -7,7 +7,7 @@
     🔥 Sou um estudante de programção buscando melhorar todos os dias  <br>
     :sparkles: Tecnologias favoritas: html, css, Go, Java, Python ... <br>
     :email:	gabrielpatricioxyz@gmail.com <br>
-    :art: Sobre mim: https://patriciopng.github.io <br>
+    :art: Sobre mim: https://patriciogabriel.github.io <br>
 
   </samp>
 </p>
